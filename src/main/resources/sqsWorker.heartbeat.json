@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "accessKey": "**aws access key**",
+      "secretKey": "**aws secret key**",
+      "region": "**region name**",
+      "targetQueue": "**target queue name**",
+      "eventText": "{\"Subject\":\"**eventname**\",\"Message\":\"{}\"}"
+    }
+  ]
+}
