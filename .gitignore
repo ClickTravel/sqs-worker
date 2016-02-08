@@ -9,4 +9,6 @@ build/
 bin/
 *.swp
 logs/
+log/
 payload.json
+sqs-worker.zip
