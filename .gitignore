@@ -1,0 +1,12 @@
+.DS_Store
+.classpath
+.settings/
+.metadata/
+*.launch
+.project
+.gradle/
+build/
+bin/
+*.swp
+logs/
+payload.json
